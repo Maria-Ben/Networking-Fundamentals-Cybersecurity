@@ -1,4 +1,4 @@
-<img width="477" height="376" alt="Screenshot 2026-05-06 122312" src="https://github.com/user-attachments/assets/c3939f27-01cd-44a8-b4f9-5909a1b498e9" />
+
 # Networking-Fundamentals-Cybersecurity
 # 🌐 Networking Fundamentals for Cybersecurity (My Learning Journey)
 
@@ -71,7 +71,22 @@ google.com → 142.xxx.xxx.xxx
 * `ipconfig /displaydns` → view cache
 * `ipconfig /flushdns` → clear cache
 * `nslookup google.com` → manual query
+## 🔍 DNS Lookup Example
 
+Command used:
+nslookup google.com
+
+<img width="477" height="376" alt="Screenshot 2026-05-06 122312" src="https://github.com/user-attachments/assets/620efe1d-dea6-44a3-92a9-f1eaaa52dbaa" />
+
+
+### Output Analysis:
+- DNS server used: 192.168.2.1 (local router)
+- Received multiple IPv4 and IPv6 addresses
+- Indicates load balancing and distributed infrastructure
+- Non-authoritative answer shows cached/forwarded response
+
+### Key Learning:
+A single domain can resolve to multiple IP addresses depending on server availability and location.
 ---
 
 ## 🔌 4. Ports
