@@ -1,15 +1,13 @@
+🌐 Networking Fundamentals for Cybersecurity (My Learning Journey)
 
-# Networking-Fundamentals-Cybersecurity
-# 🌐 Networking Fundamentals for Cybersecurity (My Learning Journey)
-
-## 📌 Overview
+##  Overview
 
 This repository documents my journey of building a strong foundation in networking concepts for a career in cybersecurity.
 I am starting from the basics and connecting theory with hands-on practice using tools like Wireshark.
 
 ---
 
-## 🧠 1. IP Addresses
+## 1. IP Addresses
 
 ### What is an IP Address?
 
@@ -42,7 +40,7 @@ An IP address uniquely identifies a device on a network.
 
 ---
 
-## 🔄 2. Static vs Dynamic IP
+## 2. Static vs Dynamic IP
 
 * **Dynamic IP** → changes over time (most common)
 * **Static IP** → fixed (used in servers/business)
@@ -52,7 +50,7 @@ An IP address uniquely identifies a device on a network.
 
 ---
 
-## 🌐 3. DNS (Domain Name System)
+## 3. DNS (Domain Name System)
 
 ### What is DNS?
 
@@ -71,7 +69,8 @@ google.com → 142.xxx.xxx.xxx
 * `ipconfig /displaydns` → view cache
 * `ipconfig /flushdns` → clear cache
 * `nslookup google.com` → manual query
-## 🔍 DNS Lookup Example
+* 
+##  DNS Lookup Example
 
 Command used:
 nslookup google.com
@@ -108,7 +107,7 @@ A port identifies a specific service/application on a device.
 
 ---
 
-## 🔐 5. HTTP vs HTTPS
+##  5. HTTP vs HTTPS
 
 * HTTP → unencrypted communication (port 80)
 * HTTPS → encrypted communication (port 443)
@@ -117,7 +116,7 @@ A port identifies a specific service/application on a device.
 
 ---
 
-## 📡 6. TCP/IP
+##  6. TCP/IP
 
 ### TCP
 
@@ -134,7 +133,7 @@ TCP + IP = foundation of internet communication
 
 ---
 
-## 🔗 7. MAC Address vs IP Address
+##  7. MAC Address vs IP Address
 
 | MAC Address    | IP Address       |
 | -------------- | ---------------- |
@@ -144,7 +143,7 @@ TCP + IP = foundation of internet communication
 
 ---
 
-## 🏠 8. Networking Devices
+##  8. Networking Devices
 
 ### Modem
 
@@ -162,7 +161,7 @@ TCP + IP = foundation of internet communication
 
 ---
 
-## 📶 9. Private vs Public Communication
+##  9. Private vs Public Communication
 
 * Devices use private IP internally
 * Router uses public IP to communicate externally
@@ -170,7 +169,7 @@ TCP + IP = foundation of internet communication
 
 ---
 
-## 📊 10. Wireshark (Hands-On Learning)
+##  10. Wireshark (Hands-On Learning)
 
 Tool used: Wireshark (packet analyzer)
 
@@ -189,7 +188,7 @@ Tool used: Wireshark (packet analyzer)
 
 ---
 
-## 🔍 11. Mapping Traffic to Applications
+##  11. Mapping Traffic to Applications
 
 Used:
 
@@ -203,7 +202,7 @@ Used:
 
 ---
 
-## ⚠️ 12. Normal vs Suspicious Traffic
+##  12. Normal vs Suspicious Traffic
 
 ### Normal:
 
@@ -218,7 +217,7 @@ Used:
 
 ---
 
-## 🧠 Key Takeaways
+##  Key Takeaways
 
 * Networking is the foundation of cybersecurity
 * Every communication uses:
@@ -231,7 +230,7 @@ Used:
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 * Learn network scanning (Nmap)
 * Practice labs on TryHackMe
@@ -240,6 +239,6 @@ Used:
 
 ---
 
-## 📌 Goal
+##  Goal
 
 To build strong fundamentals and transition into a cybersecurity role such as a SOC Analyst.
