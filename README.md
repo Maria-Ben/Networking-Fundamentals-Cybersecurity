@@ -1,3 +1,4 @@
+<img width="477" height="376" alt="Screenshot 2026-05-06 122312" src="https://github.com/user-attachments/assets/c3939f27-01cd-44a8-b4f9-5909a1b498e9" />
 # Networking-Fundamentals-Cybersecurity
 # 🌐 Networking Fundamentals for Cybersecurity (My Learning Journey)
 
